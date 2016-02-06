@@ -2,6 +2,13 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'coffee-script-source', '1.8.0'
+gem 'haml', '~> 4.0', '>= 4.0.7'
+gem 'simple_form', '~> 3.2', '>= 3.2.1'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'paperclip', '~> 4.3', '>= 4.3.2'
+gem 'cocoon', '~> 1.2', '>= 1.2.6'
+gem 'devise', '~> 3.5', '>= 3.5.5'
 gem 'rails', '4.2.5'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
